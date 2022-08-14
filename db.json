@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Vegetables",
+      "frshness": "Brand New",
+      "price": 5,
+      "comment": "test",
+      "date": "2022-08-06T18:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "frshness": "Brand New",
+      "price": 100,
+      "comment": "This the mengo",
+      "date": "2022-07-31T18:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Apple",
+      "category": "Vegetables",
+      "frshness": "Brand New",
+      "price": 5,
+      "comment": "Good Boy",
+      "date": "2022-08-06T18:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
